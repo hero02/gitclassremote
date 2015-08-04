@@ -1,0 +1,28 @@
+{
+  "name": "w3 hoomework",
+  "version": "1",
+  "authors": [
+    "herodney <webdezinesco@gmail.com>"
+  ],
+  "description": "homeworl emergin tech",
+  "main": "index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "waypoint",
+    "mixitup"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "waypoints": "~3.1.1",
+    "mixitup": "~2.1.9"
+  }
+}
